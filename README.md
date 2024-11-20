@@ -31,8 +31,4 @@ The CNN processes extracted features (e.g., spectrograms):
 - Experiment with additional audio feature extraction techniques (e.g., Chroma, ZCR).  
 - Explore alternative deep learning models like transformers or RNNs.  
 - Deploy the system with a REST API for real-time speaker recognition.  
----
-
-## License  
-This project is licensed under the MIT License. See `LICENSE` for details.  
 
