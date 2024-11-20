@@ -24,9 +24,7 @@ The CNN processes extracted features (e.g., spectrograms):
 ---
 
 ## Results  
-- **Accuracy**: Achieved XX% accuracy on the test dataset.  
-- **Visualization**: Example spectrograms and loss/accuracy plots can be found in `results/`.  
-
+- **Accuracy**: Achieved 33% accuracy on the test dataset.  
 ---
 
 ## Future Work  
